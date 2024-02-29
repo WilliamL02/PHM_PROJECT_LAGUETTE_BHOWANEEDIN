@@ -12,7 +12,7 @@ Make sure you have the following installed:
 ## Getting Started
 1. Clone the repository to your local machine:
      ```bash
-     git clone [https://github.com/WilliamL02/PHM_PROJECT_LAGUETTE_BHOWANEEDIN]
+     git clone https://github.com/WilliamL02/PHM_PROJECT_LAGUETTE_BHOWANEEDIN
      ```
 
 3. Change into the project directory:
