@@ -15,7 +15,7 @@ Make sure you have the following installed:
      git clone https://github.com/WilliamL02/PHM_PROJECT_LAGUETTE_BHOWANEEDIN
      ```
 
-3. Change into the project directory:
+3. Change into the project directory
 
 4. Open the project in your preferred IDE:
    - *Visual Studio Code:*
